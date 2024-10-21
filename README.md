@@ -43,8 +43,9 @@ pip install -r requirements.txt
 ```bash
 git clone https://github.com/yourusername/image-compression-autoencoder.git
 cd image-compression-autoencoder
-## References
 
+
+## References
 Here are some useful resources related to autoencoders and image compression:
 
 1. [Autoencoders Tutorial - Edureka](https://medium.com/edureka/autoencoders-tutorial-cfdcebdefe37)
