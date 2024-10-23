@@ -1,0 +1,4 @@
+tensorflow==2.13.0  # Adjust this version based on your TensorFlow version
+numpy==1.23.5       # Ensure numpy is compatible with TensorFlow
+Pillow==9.5.0       # For loading images (PIL library)
+matplotlib==3.7.2   # Optional, if you need for plotting images
